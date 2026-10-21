@@ -1,0 +1,1417 @@
+[
+  {
+    "post_comment": "Animations usually evoke warmth and fun, but AI ads still feel creepy, mostly.",
+    "parent_text": null,
+    "filename": "2025_F&B_2",
+    "row_id": "2025_F&B_2_217",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Disgust",
+        "evidence": "AI ads still feel creepy"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_os208di",
+    "post_comment": "before a few years ago I thought the uncanny valley was just for humans. amazing how they found a way to put bad vibes into everything from food pics to cartoons",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2026_F&B_General_Reddit_1",
+    "row_id": "2026_F&B_General_Reddit_1_21",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Disgust",
+        "evidence": "uncanny valley was just for humans"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Disgust",
+        "evidence": "amazing how they found a way to put bad vibes into everything"
+      }
+    ],
+    "sarcasm_detected": true,
+    "irony_detected": true,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_lagd3cy",
+    "post_comment": "AI has improved a lot in the past few years, but it has continuously struggled with continuity. I wonder when that will be addressed.",
+    "parent_id": "t1_lafzd1t",
+    "parent_text": "Ok, but it’s still pretty incredible considering how absolutely new the tech is. It’s not cinema quality, but fine for a 30 second web spot for a toy store that probably doesn’t have a huge budget for it. Look at how fast AI is improving, a year from now you probably will have trouble telling if it’s fake.",
+    "original_file": "2024_Entertainment_Toy R Us_Reddit_1",
+    "row_id": "2024_Entertainment_Toy R Us_Reddit_1_26",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Neutral",
+        "evidence": "continuously struggled with continuity"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Neutral",
+        "evidence": "AI has improved a lot in the past few years, but it has continuously struggled with continuity. I wonder when that will be addressed."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "neutral",
+    "relation_label": "disagree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_nn9ffii",
+    "post_comment": "There are zero excuses for billion dollar corporations to cut corners and rob people of doing jobs just so they can make a cheaper, shittier version of a commercial. I’m guessing there is a connection in Coca-Cola’s board and investments into AI companies, so they have to keep feeding the machine to push off the inevitable bubble pop",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2025_F&B_Coca cola_Reddit_5",
+    "row_id": "2025_F&B_Coca cola_Reddit_5_1",
+    "aspects": [
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Anger",
+        "evidence": "zero excuses for billion dollar corporations to cut corners"
+      },
+      {
+        "aspect": "Labor & Employability",
+        "emotion": "Anger",
+        "evidence": "rob people of doing jobs"
+      },
+      {
+        "aspect": "Cost & Efficiency",
+        "emotion": "Disgust",
+        "evidence": "cheaper, shittier version of a commercial"
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Fear",
+        "evidence": "inevitable bubble pop"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "Beatifull audio track beatifull car, too bad it's an electric model",
+    "parent_text": null,
+    "filename": "2023_Automotive_1",
+    "row_id": "2023_Automotive_1_77",
+    "aspects": [
+      {
+        "aspect": "AI Capability",
+        "emotion": "Joy",
+        "evidence": "Beatifull audio track"
+      },
+      {
+        "aspect": "Visual Centric",
+        "emotion": "Joy",
+        "evidence": "beatifull car"
+      },
+      {
+        "aspect": "Brand Perception",
+        "emotion": "Sadness",
+        "evidence": "too bad it's an electric model"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "not_applicable",
+    "emotion": "Sadness",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_lade9wl",
+    "post_comment": "Soras quality is actually impressive here, I honestly expected worse. Some scenes seem a bit off, but it is definitely not horryfing.\r\n\r\nIt just takes away some of the \"soul\" of telling an origin story about toys when you know, every frame is fake.",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2024_Entertainment_Toy R Us_Reddit_1",
+    "row_id": "2024_Entertainment_Toy R Us_Reddit_1_97",
+    "aspects": [
+      {
+        "aspect": "AI Capability",
+        "emotion": "Joy",
+        "evidence": "Soras quality is actually impressive here"
+      },
+      {
+        "aspect": "Realism",
+        "emotion": "Neutral",
+        "evidence": "Some scenes seem a bit off, but it is definitely not horryfing."
+      },
+      {
+        "aspect": "Authenticity",
+        "emotion": "Sadness",
+        "evidence": "takes away some of the \"soul\" of telling an origin story about toys when you know, every frame is fake."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Sadness",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_ntc1ha1",
+    "post_comment": "Consumers absolutely hate AI with a passion but the tech bros just won't back off lol",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2025_F&B_McDonalds_Reddit_3",
+    "row_id": "2025_F&B_McDonalds_Reddit_3_18",
+    "aspects": [
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Anger",
+        "evidence": "Consumers absolutely hate AI with a passion"
+      },
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Anger",
+        "evidence": "tech bros just won't back off lol"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "I'm not surprised. A subpar company with subpar products can't come up with anything else than subpar AI-generated advertising. 😏",
+    "parent_text": null,
+    "filename": "2025_F&B_2",
+    "row_id": "2025_F&B_2_228",
+    "aspects": [
+      {
+        "aspect": "Brand Perception",
+        "emotion": "Disgust",
+        "evidence": "A subpar company with subpar products"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Disgust",
+        "evidence": "subpar AI-generated advertising"
+      }
+    ],
+    "sarcasm_detected": true,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "youtube"
+  },
+  {
+    "post_comment": "Definitely not AI, bits and pieces here but the majority is definitely not AI, can't imagine how people are being fulled by this",
+    "parent_text": "Nice work 🔥🔥🔥\nIt doesn’t matter how it is made. People here are complaining like it is really easy to make Ai driven films like this,  but it’s not. This is a new level, one of the best Clips using AI I’ve seen so far. Great Work 🔥🔥🔥",
+    "filename": "2024_Apparel_1",
+    "row_id": "2024_Apparel_1_83",
+    "aspects": [
+      {
+        "aspect": "Transparency & Detectability",
+        "emotion": "Anger",
+        "evidence": "can't imagine how people are being fulled by this"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "neutral",
+    "relation_label": "disagree",
+    "emotion": "Surprise",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_os5jzv7",
+    "post_comment": "One of my favorite Japanese takeout places started using AI on their site after they were bought by another company. They had photos of the food prior, now most of it is AI generated. Steak looks like identical cubes. The fried rice looks trippy. The sushi looks like it should be earrings. All of it looks like it's made from clay. And now a Korean BBQ place that's been here for at least a decade and well known, decided to start using AI images. Their photos were great! Why did they change them?!?! The AI images don't look appealing at all!",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2026_F&B_General_Reddit_1",
+    "row_id": "2026_F&B_General_Reddit_1_49",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Disgust",
+        "evidence": "All of it looks like it's made from clay."
+      },
+      {
+        "aspect": "Visual Centric",
+        "emotion": "Disgust",
+        "evidence": "Steak looks like identical cubes. The fried rice looks trippy. The sushi looks like it should be earrings."
+      },
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Anger",
+        "evidence": "Why did they change them?!?!"
+      },
+      {
+        "aspect": "Brand Perception",
+        "emotion": "Sadness",
+        "evidence": "One of my favorite Japanese takeout places... Korean BBQ place that's been here for at least a decade and well known... Their photos were great!"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Disgust",
+        "evidence": "The AI images don't look appealing at all!"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_lwuczjs",
+    "post_comment": "That's what I was thinking...\r\n\r\nI could do this same thing on my pixel phone years ago.\r\n\r\nI was thinking #1 the ai should have reminded her of the birthday before it ever even happened. It could even recommend gifts based on a few things that her husband likes.\r\n\r\nAlthough it's usually pretty easy to give gifts to men, at least in my case. If my gf forgot my birthday but gave me a blowie to make up for it, maybe I'd forgive her! If she never told me she forgot, I'd have no idea and be happy about the whole thing.",
+    "parent_id": "t1_lwtqa35",
+    "parent_text": "But it wasn't a gift...or AI. It's a curated slideshow with music. Windows XP used to do this with Movie Maker.\r\n\r\nAm I on crazy pills or are people forgetting how simple technology used to be. They are not making things more convenient for YOU, they're making it more convenient for them.\r\n\r\nIf this is AI, my grandmother is a bicycle.",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_285",
+    "aspects": [
+      {
+        "aspect": "AI Capability",
+        "emotion": "Neutral",
+        "evidence": "I could do this same thing on my pixel phone years ago."
+      },
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Neutral",
+        "evidence": "the ai should have reminded her of the birthday before it ever even happened. It could even recommend gifts based on a few things that her husband likes."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "agree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "I wish they'd go bankrupt again. 🫩",
+    "parent_text": "Maybe Toys R' Us filing for bankruptcy back in 2018 was for the best...",
+    "filename": "2024_General_1",
+    "row_id": "2024_General_1_70",
+    "aspects": [
+      {
+        "aspect": "Brand Perception",
+        "emotion": "Anger",
+        "evidence": "I wish they'd go bankrupt again."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "agree",
+    "emotion": "Anger",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_lwuj47n",
+    "post_comment": "That was the eyeroll of a woman who is about to fuck 12 dudes at the same time.",
+    "parent_id": "t1_lwtpdhk",
+    "parent_text": "The ad would've been perfectly fine if they didn't have the actress do an eye roll while her daughter was being sweet with her father.\r\n\r\nYou lied to your entire family and made the moment about you when you could've just let your kids and their father be. You earned that strut!\r\n\r\nProbably off to grab a bottle of gin to get the day started.",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_118",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Disgust",
+        "evidence": "That was the eyeroll of a woman who is about to fuck 12 dudes at the same time."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "agree",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_nn5g6d0",
+    "post_comment": "ok? so make better ads then people will buy em, people who make ads ahve not been good at that",
+    "parent_id": "t1_nn4exdz",
+    "parent_text": "Ummm we do because it takes away jobs from people that actually have a passion to create better ads then ai ever could. In other words coca-cola is making AI slop ads to save money.",
+    "original_file": "2025_F&B_Coca cola_Reddit_4",
+    "row_id": "2025_F&B_Coca cola_Reddit_4_43",
+    "aspects": [
+      {
+        "aspect": "Labor & Employability",
+        "emotion": "Disgust",
+        "evidence": "people who make ads ahve not been good at that"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "favor",
+    "relation_label": "disagree",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "And this is why people like me working on sets, have no work because you guys wanna AI all of this. Very sad",
+    "parent_text": null,
+    "filename": "2024_Apparel_1",
+    "row_id": "2024_Apparel_1_207",
+    "aspects": [
+      {
+        "aspect": "Labor & Employability",
+        "emotion": "Sadness",
+        "evidence": "people like me working on sets, have no work because you guys wanna AI all of this. Very sad"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Sadness",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_lwuhnut",
+    "post_comment": "At least this one tried to explain what it is and why anyone would want it. (And failed.) All the commercials where some dumbass goes “and it’s got Apple intelligence, look” and presses the button to marvel at how the phone glowed a little and then did absolutely nothing else were driving me crazy.",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_573",
+    "aspects": [
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Anger",
+        "evidence": "tried to explain what it is and why anyone would want it. (And failed.)"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Anger",
+        "evidence": "did absolutely nothing else"
+      }
+    ],
+    "sarcasm_detected": true,
+    "irony_detected": true,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_n90i385",
+    "post_comment": "tbf in commercials u rarely see people with food stains",
+    "parent_id": "t1_n8m74yj",
+    "parent_text": "You can always tell who's AI by the amount of food stains they have on their shirt.",
+    "original_file": "2025_F&B_General_Reddit_1",
+    "row_id": "2025_F&B_General_Reddit_1_9",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Neutral",
+        "evidence": "in commercials u rarely see people with food stains"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "neutral",
+    "relation_label": "disagree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_lww907u",
+    "post_comment": "Got any examples? I’m all for calling out goofy AI implementation but 99% seems pretty ridiculous",
+    "parent_id": "t1_lwudwlr",
+    "parent_text": "99% of the things AI can \"do\" are things that other technologies could have done.",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_368",
+    "aspects": [
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Anger",
+        "evidence": "calling out goofy AI implementation"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "favor",
+    "relation_label": "disagree",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_n6x7105",
+    "post_comment": "The problem is that it's a massive version of the prisoners dilemma made up of only the worst people, CEOs and board members. Vogue firing a couple dozen people in their art department will make them money and won't affect their profits at all. What will affect their profits is everyone else doing the same thing and laying off massive numbers of employees. So from each individual company's perspective, it's best to snitch and take the profit that they can. If anything is going to stop the massive layoff problem it needs to be an outside source. Laws, a public boycott to make switching to ai less profitable in the short term, etc",
+    "parent_id": "t1_n6wjrdr",
+    "parent_text": "You have all of these of companies using AI to create art/media/ ads, and overhead costs go down. They’ll even lay people off to save even more— just for the quarterly numbers to trend upward. But you know what doesn’t change? The price per magazine/subscription. That causes outrage. The people who are shoved aside will no longer to be able to support the businesses— ultimately ending up with steady performance drops, more layoffs and then mergers with PE firms that will gut the once-great brand names for spare parts.\r\n\r\nDon’t worry, though. It’s all for us, guys. The shareholders. The ones who— if we are invested, it will be a FRACTION of a fraction of what PE firms own. We see 0.02 dollars come our way as a dividend. They will see a million or two. And down and down the spiral goes.\r\n\r\nWhen models are AI, and the fashion is AI, what are you actually charging the consumer for? The margins are much different. And prices need to reflect that. It’s one thing to save on production cost. But it’s another to erode the creative space and not adjust pricing as you hide behind a brand name. Pretty greasy.",
+    "original_file": "2025_Fashion & Apparel_Guess_Reddit_1",
+    "row_id": "2025_Fashion & Apparel_Guess_Reddit_1_10",
+    "aspects": [
+      {
+        "aspect": "Labor & Employability",
+        "emotion": "Fear",
+        "evidence": "laying off massive numbers of employees"
+      },
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Disgust",
+        "evidence": "only the worst people, CEOs and board members"
+      },
+      {
+        "aspect": "Cost & Efficiency",
+        "emotion": "Neutral",
+        "evidence": "will make them money and won't affect their profits at all"
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Fear",
+        "evidence": "it needs to be an outside source. Laws, a public boycott"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "agree",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_nn3pydi",
+    "post_comment": "Honest question: how much would this video cost if they hired a real human team vs the cost of this ?",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2025_F&B_Coca cola_Reddit_2",
+    "row_id": "2025_F&B_Coca cola_Reddit_2_101",
+    "aspects": [
+      {
+        "aspect": "Cost & Efficiency",
+        "emotion": "Neutral",
+        "evidence": "how much would this video cost if they hired a real human team vs the cost of this ?"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "neutral",
+    "relation_label": "not_applicable",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_n70dseh",
+    "post_comment": "Whilst I agree that they're stupid (colossally short-sighted, at the very least) I think a lot of the obsession with AI generated content is more of a calculated risk that the slop will be \"good enough\" for the majority of an audience (be they Vogue readers, cinema-goers, gamers, etc.) for it to not matter enough that the sales they lose (from anyone who it's not good enough) won't outweigh the savings they make.\r\n\r\nIt starts small but, after a certain point, they're betting we'll collectively be used to the pot boiling around us.\r\n\r\nWe're all just numbers on a spreadsheet to these people, and as long as they can force their numbers to go up in the immediate term, they don't care about the longterm damage.",
+    "parent_id": "t1_n6x4hcg",
+    "parent_text": "Bold move by Vogue cutting out the only reason to subscribe to the magazine. AI models and articles? Do you know who else can do that? Literally anyone with an IPhone. I can generate AI slop for free in under 1 minute, why would I pay vogue for that? It’s a fashion lifestyle magazine, what am I supposed to gleam from the glamorous lifestyle of a mid journey rendering?\r\n\r\nIt just goes to show how truly stupid executive level decision makers are. They think that people are idiots, while they themselves can barely work an excel sheet. A lot of key decision makers are barely competent ass sniffers who failed upwards, moving from company to company, their title and comp climbing higher and higher with each move.",
+    "original_file": "2025_Fashion & Apparel_Guess_Reddit_1",
+    "row_id": "2025_Fashion & Apparel_Guess_Reddit_1_7",
+    "aspects": [
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Anger",
+        "evidence": "We're all just numbers on a spreadsheet to these people, and as long as they can force their numbers to go up in the immediate term, they don't care about the longterm damage."
+      },
+      {
+        "aspect": "Cost & Efficiency",
+        "emotion": "Neutral",
+        "evidence": "the sales they lose ... won't outweigh the savings they make"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Disgust",
+        "evidence": "the slop will be 'good enough' for the majority of an audience"
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Fear",
+        "evidence": "they're betting we'll collectively be used to the pot boiling around us"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "agree",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_lwt7zyp",
+    "post_comment": "At least that ad was striking visually and started a conversation. This pulls double-duty being both off-putting and lazy in the same breath",
+    "parent_id": "t1_lwswojt",
+    "parent_text": "Crushing Ad was a perfect representation of how digital devices have replaced so many items with a cheap imitation and how we are slowly killing the physical world in the process",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_56",
+    "aspects": [
+      {
+        "aspect": "Visual Centric",
+        "emotion": "Joy",
+        "evidence": "striking visually"
+      },
+      {
+        "aspect": "Authenticity",
+        "emotion": "Disgust",
+        "evidence": "lazy"
+      }
+    ],
+    "sarcasm_detected": true,
+    "irony_detected": true,
+    "stance_label": "against",
+    "relation_label": "disagree",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_moiqdfe",
+    "post_comment": "It’s gross, but they are just advertising one of their (unneeded) services",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2025_Technology_Microsoft_Reddit_1",
+    "row_id": "2025_Technology_Microsoft_Reddit_1_14",
+    "aspects": [
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Disgust",
+        "evidence": "It’s gross, but they are just advertising one of their (unneeded) services"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "@zonzillamagnus5902 They cost money for a reason. Bloated on the Hollywood scale, sure, but performers and artists need to be paid in the current economic system. Nobody actually wants to watch whatever \"basement bob\" is gonna make in his gooner cave. You are equating generated media, which is a full simulation, with other mediums. They are not the same. By definition, it is not animation or photography or CGI. It is none of those things. It is a medium built on pure delusion. Again, you can't get something (of worth) from nothing. Because it will be a totally available tech, it diminished the value. It will be a sea of slop and nobody will care. Human being crave the story of \"us\". Not an aggregate \"guess\" in the church of \"good enough\". Money is not the issue. You don't need a bunch of money to make a movie on your DSLR and put it on youtube for free. It's already the lowest cost it's ever been. You want glory for nothing. You wanna be \"somebody\" with nothing to say or nothing to add.",
+    "parent_text": "Tell me… what’s the difference between a camera and AI artistically?",
+    "filename": "2025_F&B_2",
+    "row_id": "2025_F&B_2_319",
+    "aspects": [
+      {
+        "aspect": "Labor & Employability",
+        "emotion": "Anger",
+        "evidence": "performers and artists need to be paid"
+      },
+      {
+        "aspect": "Authenticity",
+        "emotion": "Disgust",
+        "evidence": "medium built on pure delusion"
+      },
+      {
+        "aspect": "Cost & Efficiency",
+        "emotion": "Anger",
+        "evidence": "Money is not the issue."
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Disgust",
+        "evidence": "you can't get something (of worth) from nothing"
+      },
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Anger",
+        "evidence": "They are not the same."
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Disgust",
+        "evidence": "It will be a sea of slop and nobody will care."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "disagree",
+    "emotion": "Disgust",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_lwv08wy",
+    "post_comment": "Uh, why would you not do this ad where she is secretly setting this up so that his phone stops working on the morning of his birthday and he opens his present to a new iphone with this slideshow running of him and the kids?\r\n\r\nI mean, christ, she literally rolls her eyes and mocks her own daughter under her breath.",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_450",
+    "aspects": [
+      {
+        "aspect": "AI Capability",
+        "emotion": "Anger",
+        "evidence": "why would you not do this ad where she is secretly setting this up..."
+      },
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Disgust",
+        "evidence": "she literally rolls her eyes and mocks her own daughter under her breath"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "not_applicable",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_nntu641",
+    "post_comment": "yea jumps are the easiest way to hide the cuts. Luckily other tools out there have options like last frame first frame to help but coke didnt do that apparently.",
+    "parent_id": "t1_nnsk477",
+    "parent_text": "Genuinely the worst part of current AI videos rn, if they want multiple scenes they need multiple prompts and that can be hard to keep consistent so they gotta jump cut. Man its annoying. Sora 2 kinda improved this with scene consistency but not really because the AI will make its own jump cuts in the video.",
+    "original_file": "2025_F&B_Coca cola_Reddit_6",
+    "row_id": "2025_F&B_Coca cola_Reddit_6_9",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Neutral",
+        "evidence": "jumps are the easiest way to hide the cuts"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Joy",
+        "evidence": "Luckily other tools out there have options like last frame first frame to help"
+      },
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Anger",
+        "evidence": "but coke didnt do that apparently"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "neutral",
+    "relation_label": "agree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_lwtgah9",
+    "post_comment": "Replace the dog with a grandfather, and replace the photo album with an AI-generated video of the grandfather saying hello to the child from the afterlife and you're in business",
+    "parent_id": "t1_lwt9o23",
+    "parent_text": "Here's my five-second redraft: a kid is crying and we see that it's because his dog passed away. The parent asks Siri to assemble an album of all the times the two of them were playing. It's playing on a digital picture frame in the kid's room and he's all smiles as he nods off.\r\n\r\nHow fucking hard is that?",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_315",
+    "aspects": [
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Disgust",
+        "evidence": "AI-generated video of the grandfather saying hello to the child from the afterlife"
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Fear",
+        "evidence": "AI-generated video of the grandfather saying hello to the child from the afterlife"
+      },
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Disgust",
+        "evidence": "you're in business"
+      }
+    ],
+    "sarcasm_detected": true,
+    "irony_detected": true,
+    "stance_label": "against",
+    "relation_label": "agree",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_lwts6c0",
+    "post_comment": "I'm usually a big hater of commercials. I thought this was pretty good, actually, hahaha. I can see I'm alone. It's realistic.",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_439",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Joy",
+        "evidence": "It's realistic."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "not_applicable",
+    "emotion": "Joy",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_n6ydhry",
+    "post_comment": "Oh, please. Fashion photography has always been about fantasy. They were the first to use very heavy Photoshop - Nick Knight.\r\n\r\nAI is a very natural progression.",
+    "parent_id": "t1_n6x01j8",
+    "parent_text": "The outrage is because the images themselves are not why we buy the magazine. The images is partly a costly signaling device and an exhibition of the craft and skill of the stylists and photographers, etc..\r\n\r\nIf an ad contains AI, but tries to make it look like it was shot by a photographers, we feel betrayed because they try to convey high status and costly signaling to make us want or desire or trust the product without having done the investment. It’s like a plastic wedding ring. We de-code it as cheating even though the image looks good.\r\n\r\nSort of the same applies to a fashion editorial where we feel betrayed of the value of craftsmanship and creative skill that the images are meant to portray.\r\n\r\nA fashion editorial is not a comic book. We care that these images were created and crafted from something that once was real by skilled people.",
+    "original_file": "2025_Fashion & Apparel_Guess_Reddit_1",
+    "row_id": "2025_Fashion & Apparel_Guess_Reddit_1_25",
+    "aspects": [
+      {
+        "aspect": "Authenticity",
+        "emotion": "Neutral",
+        "evidence": "AI is a very natural progression."
+      },
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Neutral",
+        "evidence": "Fashion photography has always been about fantasy."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "favor",
+    "relation_label": "disagree",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "@almaner8655 how can they adapt, ai can replace, how do you adapt to something like this, let me ask you something, what do you do When ai takes your job what are you gonna do to adapt?",
+    "parent_text": "And this is why people like me working on sets, have no work because you guys wanna AI all of this. Very sad",
+    "filename": "2024_Apparel_1",
+    "row_id": "2024_Apparel_1_225",
+    "aspects": [
+      {
+        "aspect": "Labor & Employability",
+        "emotion": "Fear",
+        "evidence": "When ai takes your job what are you gonna do to adapt?"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "agree",
+    "emotion": "Anger",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_o6lze4m",
+    "post_comment": "I've assumed all the cars I've seen in ads driving were CG renderings for a long time.\r\n\r\nYou know the \"Professional Driver. Closed Course.\" disclaimer? They really should be forced to put \"Simulated Car\" on that, because if they're showing off driving dynamics and using this (or just a rendering), that's close to truth in advertising issues I think. But that's just my opinion.",
+    "parent_id": "t1_o6jkf5x",
+    "parent_text": "The Mill Blackbird has been in use for years. AI wouldn't be that far off \r\n\r\nhttps://youtu.be/OnBC5bwV5y0?si=Mx6hM-lV4rdbnXFW",
+    "original_file": "2026_Automotive_Mazda_Reddit_1",
+    "row_id": "2026_Automotive_Mazda_Reddit_1_11",
+    "aspects": [
+      {
+        "aspect": "Transparency & Detectability",
+        "emotion": "Anger",
+        "evidence": "they really should be forced to put \"Simulated Car\" on that, because if they're showing off driving dynamics and using this (or just a rendering), that's close to truth in advertising issues"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "agree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_nn43eqk",
+    "post_comment": "Their old ones were cgi, cheap and ugly as fuck. This and last years look cheap, are AI and are ugly as fuck.",
+    "parent_id": "t1_nn3gmd2",
+    "parent_text": null,
+    "original_file": "2025_F&B_Coca cola_Reddit_2",
+    "row_id": "2025_F&B_Coca cola_Reddit_2_12",
+    "aspects": [
+      {
+        "aspect": "Visual Centric",
+        "emotion": "Disgust",
+        "evidence": "ugly as fuck"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_lwtieqn",
+    "post_comment": "They're trying out the wooden boat they juste made, it's in his hand.",
+    "parent_id": "t1_lwsz67a",
+    "parent_text": "Kind of a great job at showing how poor it works with that beach pic thrown in",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_295",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Neutral",
+        "evidence": "it's in his hand"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "disagree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_lxhcnar",
+    "post_comment": "Self-driving cars work, and they work a whole lot better than human drivers. That's been the case for several years, already. Human drivers kill about 40,000 people every year in the US. But AI drivers can't kill anyone, or they're a total failure. Until we have that 40k down to 0, people will say self-driving cars aren't ready. Manufacturers aren't ready for legal liability. But the technology IS ready, and has been ready.\r\n\r\nAI video generation has much less possibility of causing deaths, so it won't be as tightly held-back.",
+    "parent_id": "t1_lxhcdd0",
+    "parent_text": null,
+    "original_file": "2024_F&B_Coca cola_Reddit_3",
+    "row_id": "2024_F&B_Coca cola_Reddit_3_54",
+    "aspects": [
+      {
+        "aspect": "AI Capability",
+        "emotion": "Neutral",
+        "evidence": "the technology IS ready, and has been ready"
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Neutral",
+        "evidence": "Manufacturers aren't ready for legal liability"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "favor",
+    "relation_label": "not_applicable",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "These AI people have no taste, all they do is vomit toxic sentimentality.",
+    "parent_text": null,
+    "filename": "2024_General_1",
+    "row_id": "2024_General_1_2",
+    "aspects": [
+      {
+        "aspect": "Authenticity",
+        "emotion": "Disgust",
+        "evidence": "have no taste"
+      },
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Disgust",
+        "evidence": "vomit toxic sentimentality"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "youtube"
+  },
+  {
+    "post_comment": "makes life easier for the rest of us, you creative types are losing",
+    "parent_text": "Under Armour just shamelessly spitting in the face of the entire creative industry.",
+    "filename": "2024_Apparel_1",
+    "row_id": "2024_Apparel_1_115",
+    "aspects": [
+      {
+        "aspect": "Labor & Employability",
+        "emotion": "Joy",
+        "evidence": "you creative types are losing"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "favor",
+    "relation_label": "disagree",
+    "emotion": "Joy",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_p9x15cb",
+    "post_comment": "Definitely AI instead of Logo pendant thing being a 212. Or like ram or dodge logo on the ad it littertaly says BAM that’s not a car company",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2025_Automotive_General_Reddit_1",
+    "row_id": "2025_Automotive_General_Reddit_1_2",
+    "aspects": [
+      {
+        "aspect": "Transparency & Detectability",
+        "emotion": "Neutral",
+        "evidence": "Definitely AI"
+      },
+      {
+        "aspect": "Realism",
+        "emotion": "Neutral",
+        "evidence": "it littertaly says BAM that’s not a car company"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_onvn12y",
+    "post_comment": "There's so much ai slop out there, it's unavoidable these days. I just lost my tech job to AI recently in town, first time unemployed in decades. Compute costs are more expensive than actual employees right now, a lot of companies are gonna regret it. And not to mention the more AI slop that gets put on the internet, which AI is trained on primarily, the less reliable AI will be in the future.",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2026_Automotive_Toyota_Reddit_2",
+    "row_id": "2026_Automotive_Toyota_Reddit_2_7",
+    "aspects": [
+      {
+        "aspect": "Labor & Employability",
+        "emotion": "Sadness",
+        "evidence": "I just lost my tech job to AI recently in town, first time unemployed in decades."
+      },
+      {
+        "aspect": "Cost & Efficiency",
+        "emotion": "Anger",
+        "evidence": "Compute costs are more expensive than actual employees right now, a lot of companies are gonna regret it."
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Fear",
+        "evidence": "the less reliable AI will be in the future"
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Disgust",
+        "evidence": "There's so much ai slop out there, it's unavoidable these days."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_pa49hwk",
+    "post_comment": "yeah that's the bog standard chatGPT designed advertisement",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2025_Automotive_General_Reddit_1",
+    "row_id": "2025_Automotive_General_Reddit_1_6",
+    "aspects": [
+      {
+        "aspect": "AI Capability",
+        "emotion": "Sadness",
+        "evidence": "bog standard chatGPT designed advertisement"
+      },
+      {
+        "aspect": "Transparency & Detectability",
+        "emotion": "Neutral",
+        "evidence": "chatGPT designed advertisement"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "I hate the statement \"It's cheaper, it saves a lot of money.\" when it comes to huge corpos using generative AI because with how much costs and resources the tech companies were spending on the data centres and all the talks about the constructions are directly and indirectly affecting the livelihood of the people living nearby (or even the entirety of the US), what's happening is more close to your neighbour bragging about not needing to pay their electric bills, but then you found out that they've been stealing your electricity and bloating up your bills through illegal wiring.",
+    "parent_text": null,
+    "filename": "2025_F&B_2",
+    "row_id": "2025_F&B_2_33",
+    "aspects": [
+      {
+        "aspect": "Cost & Efficiency",
+        "emotion": "Anger",
+        "evidence": "I hate the statement 'It's cheaper, it saves a lot of money.'"
+      },
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Anger",
+        "evidence": "huge corpos ... bragging about not needing to pay their electric bills ... stealing your electricity"
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Anger",
+        "evidence": "directly and indirectly affecting the livelihood of the people living nearby (or even the entirety of the US)"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": true,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Anger",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_lwtuq9y",
+    "post_comment": "That's every \"family\" ad isn't it? The dad is always the forgetful klutz that has to be rescued by his wife and/or kids. It's kind of insulting",
+    "parent_id": "t1_lwsoz90",
+    "parent_text": "If they switched the genders of the parents and changed nothing else it would just be a sad commentary about deadbeat husbands.",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_45",
+    "aspects": [
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Anger",
+        "evidence": "It's kind of insulting"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": true,
+    "stance_label": "none",
+    "relation_label": "agree",
+    "emotion": "Anger",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "well the description is seemingly ai too because it doesn't match the video just being a reupload (it says that it's a documentary on how mcdonalds \"made\" the ad) and also encourages ai slop",
+    "parent_text": "The dislike ratio is funny because they just re-uploaded it so people can see it",
+    "filename": "2025_F&B_1",
+    "row_id": "2025_F&B_1_512",
+    "aspects": [
+      {
+        "aspect": "Transparency & Detectability",
+        "emotion": "Anger",
+        "evidence": "description is seemingly ai too because it doesn't match the video"
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Disgust",
+        "evidence": "encourages ai slop"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "neutral",
+    "emotion": "Disgust",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_oi2yzgf",
+    "post_comment": "It looks like you took a 3rd gen and made it have a baby with one of the new rams",
+    "parent_id": "t1_oi2wfn0",
+    "parent_text": "Obviously ai, everything is off, grill, hood scoop, badges, headlights. This looks like a non existent 3.5 gen.",
+    "original_file": "2026_Automotive_Toyota_Reddit_1",
+    "row_id": "2026_Automotive_Toyota_Reddit_1_12",
+    "aspects": [
+      {
+        "aspect": "Visual Centric",
+        "emotion": "Neutral",
+        "evidence": "It looks like you took a 3rd gen and made it have a baby with one of the new rams"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "agree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_jl2890s",
+    "post_comment": "As always probably heavily curated, tweaked and edited by good old humans 🙂",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2023_F&B_Coca cola_Reddit_1",
+    "row_id": "2023_F&B_Coca cola_Reddit_1_197",
+    "aspects": [
+      {
+        "aspect": "AI Capability",
+        "emotion": "Neutral",
+        "evidence": "probably heavily curated, tweaked and edited"
+      },
+      {
+        "aspect": "Authenticity",
+        "emotion": "Neutral",
+        "evidence": "by good old humans"
+      }
+    ],
+    "sarcasm_detected": true,
+    "irony_detected": true,
+    "stance_label": "neutral",
+    "relation_label": "not_applicable",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_laf2w2e",
+    "post_comment": "More like just garbage story and bad cartoon graphics",
+    "parent_id": "t1_laddd0b",
+    "parent_text": "I mean there was something off about it in regards to the uncanny valley, but it wasn't horrifying. I remember watching that first Western video that Sora did when it first made headlines and this is so far beyond that in regards to quality that it's not going to be much longer before they make it over the uncanny valley.",
+    "original_file": "2024_Entertainment_Toy R Us_Reddit_1",
+    "row_id": "2024_Entertainment_Toy R Us_Reddit_1_43",
+    "aspects": [
+      {
+        "aspect": "AI Capability",
+        "emotion": "Disgust",
+        "evidence": "garbage story"
+      },
+      {
+        "aspect": "Visual Centric",
+        "emotion": "Disgust",
+        "evidence": "bad cartoon graphics"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "disagree",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "Worst product ever bought three trainers totalling 260 and all were absolute shit and had poor quality \n\nI'll Never ever going to buy this rubbish again",
+    "parent_text": null,
+    "filename": "2024_Apparel_1",
+    "row_id": "2024_Apparel_1_63",
+    "aspects": [
+      {
+        "aspect": "Brand Perception",
+        "emotion": "Anger",
+        "evidence": "Worst product ever bought... Never ever going to buy this rubbish again"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "not_applicable",
+    "emotion": "Anger",
+    "source": "youtube"
+  },
+  {
+    "post_comment": "you can tell it's AI cause I've never seen an ugly ass ad like this before",
+    "parent_text": null,
+    "filename": "2025_F&B_1",
+    "row_id": "2025_F&B_1_247",
+    "aspects": [
+      {
+        "aspect": "Visual Centric",
+        "emotion": "Disgust",
+        "evidence": "ugly ass ad"
+      },
+      {
+        "aspect": "Transparency & Detectability",
+        "emotion": "Neutral",
+        "evidence": "you can tell it's AI"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_lwt5sew",
+    "post_comment": "I agree with you about those very human insecurities, but I'm not sure the average person would consider cheapening out and using AI as being socially risk-averse when being found out is a possibility.\r\n\r\nThese outlandish stories of people using ChatGPT for things like wedding vows are compelling stories to share around, but that's just our natural bias towards more sensational narratives - for every person who used it to imitate a heartfelt gesture, a hundred others have used it to mess around in some trivial way that isn't worth sharing with the world.\r\n\r\nAnd if it helps you feel a tad more optimistic - the fact so many people are lambasting this latest round of marketing shows that people clearly aren't on the same wavelength as the guys in suits who came up with this ad campaign. There are still people out there with genuine empathy for their loved ones and multiple brain cells.",
+    "parent_id": "t1_lwt1gjn",
+    "parent_text": "My fear is that it's not out of touch and people genuinely do want to use AI this way because they just want to do the right thing/say the right thing and not have to make any effort or risk embarrassing themselves by showing subpar creativity. I've heard people use ChatGPT for wedding vows.",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_145",
+    "aspects": [
+      {
+        "aspect": "Cost & Efficiency",
+        "emotion": "Disgust",
+        "evidence": "cheapening out and using AI"
+      },
+      {
+        "aspect": "Transparency & Detectability",
+        "emotion": "Neutral",
+        "evidence": "being found out is a possibility"
+      },
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Disgust",
+        "evidence": "using ChatGPT for things like wedding vows"
+      },
+      {
+        "aspect": "Authenticity",
+        "emotion": "Disgust",
+        "evidence": "imitate a heartfelt gesture"
+      },
+      {
+        "aspect": "Corporate Motives",
+        "emotion": "Disgust",
+        "evidence": "guys in suits who came up with this ad campaign"
+      },
+      {
+        "aspect": "Brand Perception",
+        "emotion": "Joy",
+        "evidence": "people are lambasting this latest round of marketing"
+      },
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Joy",
+        "evidence": "There are still people out there with genuine empathy"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "disagree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_no18u4o",
+    "post_comment": "This had to have been before the newest Sora release, or post Sora nerf. Holy shit it looks bad. I honestly think the last years version is better.",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2025_F&B_Coca cola_Reddit_6",
+    "row_id": "2025_F&B_Coca cola_Reddit_6_150",
+    "aspects": [
+      {
+        "aspect": "Visual Centric",
+        "emotion": "Disgust",
+        "evidence": "Holy shit it looks bad"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Sadness",
+        "evidence": "I honestly think the last years version is better"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_lwssizn",
+    "post_comment": "Have you never searched your Google Photos for something random like \"river\"? Algos are pretty damn good at finding stuff in photos.",
+    "parent_id": "t1_lwsqnea",
+    "parent_text": "Ok, I kinda doubt that Apple AI was able to go back 5-10 years to find these videos and identify them correctly.",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_661",
+    "aspects": [
+      {
+        "aspect": "AI Capability",
+        "emotion": "Joy",
+        "evidence": "Algos are pretty damn good at finding stuff in photos."
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "favor",
+    "relation_label": "disagree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_o91wvme",
+    "post_comment": "Be interesting to see things play out in court because it's not sold as advertised",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2026_Automotive_General_Reddit_2",
+    "row_id": "2026_Automotive_General_Reddit_2_22",
+    "aspects": [
+      {
+        "aspect": "Transparency & Detectability",
+        "emotion": "Anger",
+        "evidence": "it's not sold as advertised"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Neutral",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_nnwfdfh",
+    "post_comment": "What a numbing advert. Otters and bunnies don't drink coke!",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2025_F&B_Coca cola_Reddit_6",
+    "row_id": "2025_F&B_Coca cola_Reddit_6_138",
+    "aspects": [
+      {
+        "aspect": "Realism",
+        "emotion": "Disgust",
+        "evidence": "Otters and bunnies don't drink coke!"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "none",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_comment": "We deserve to know how this comercial was done. Which tool they used. Who did this?",
+    "parent_text": null,
+    "filename": "2024_Apparel_1",
+    "row_id": "2024_Apparel_1_4",
+    "aspects": [
+      {
+        "aspect": "Transparency & Detectability",
+        "emotion": "Neutral",
+        "evidence": "We deserve to know how this comercial was done. Which tool they used. Who did this?"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "neutral",
+    "relation_label": "not_applicable",
+    "emotion": "Neutral",
+    "source": "youtube"
+  },
+  {
+    "post_id": "t1_lwthhuf",
+    "post_comment": "It’s bad because either (a) father and kids don’t know how easy it is to make such a reel or (b) they do know and are merely pretending that she made a thoughtful gift, or (c) they do know and are just gullible.\r\n\r\nIn any case, you have to be forgetful yourself.",
+    "parent_id": null,
+    "parent_text": null,
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_523",
+    "aspects": [
+      {
+        "aspect": "Use-case Appropriateness",
+        "emotion": "Disgust",
+        "evidence": "pretending that she made a thoughtful gift"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Neutral",
+        "evidence": "how easy it is to make such a reel"
+      },
+      {
+        "aspect": "Authenticity",
+        "emotion": "Disgust",
+        "evidence": "how easy it is to make such a reel"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "not_applicable",
+    "emotion": "Disgust",
+    "source": "reddit"
+  },
+  {
+    "post_id": "t1_nns0ait",
+    "post_comment": "Lmao what a brain dead take. What jobs did cgi take? This is not cgi. Special effects designers could learn CGI and gravitate towards newer fields. This is CGI but it learns to do itself and also write the movie and do the marketing and eventually make the entire movie itself. Like can you not see the difference?",
+    "parent_id": "t1_nnrmn88",
+    "parent_text": "And what about the jobs that were lost when cgi replaced clay animation huh? I assume you'll be campaigning against any technological advancement?",
+    "original_file": "2025_F&B_Coca cola_Reddit_6",
+    "row_id": "2025_F&B_Coca cola_Reddit_6_70",
+    "aspects": [
+      {
+        "aspect": "Labor & Employability",
+        "emotion": "Anger",
+        "evidence": "What jobs did cgi take? ... eventually make the entire movie itself"
+      },
+      {
+        "aspect": "AI Capability",
+        "emotion": "Fear",
+        "evidence": "it learns to do itself and also write the movie and do the marketing and eventually make the entire movie itself"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "against",
+    "relation_label": "disagree",
+    "emotion": "Anger",
+    "source": "reddit"
+  }
+]

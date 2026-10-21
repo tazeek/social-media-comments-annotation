@@ -22,16 +22,16 @@ def authenticate(user_id: str, password: str) -> bool:
 
     return True
 
-def load_comments_json():
+def load_comments_json(file_target):
 
     # Check for path
-    path = Path("test.json")
+    path = Path(f"{file_target}.json")
 
     if not path.exists():
         raise FileNotFoundError(f"Could not find {path.resolve()}")
 
     all_comments = []
-    with open(f'test.json', "r", encoding="utf-8") as f:
+    with open(f'{file_target}.json', "r", encoding="utf-8") as f:
         all_comments = json.load(f) 
 
     # Convert to Dataframe and add the ID

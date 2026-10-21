@@ -1,12 +1,27 @@
 import json
 import streamlit as st
 
+def parent_text_dilemma(comment):
+
+    parent_text_nan = isinstance(comment.get('parent_text'), float)
+    parent_id_nan = isinstance(comment.get('parent_id'), float)
+
+    if (parent_text_nan) and (parent_id_nan):
+        return "[None]"                          
+
+    # Check: If parent_id exists but there is no parent_text
+    if (not parent_id_nan) and (parent_text_nan):
+        return '[Deleted|Removed]'
+
+    return comment.get('parent_text')
+
 
 def render_comment(comment: dict) -> list[dict]:
 
     st.markdown(f"### Comment `{comment['comment_id']}`")
 
-    parent_text = comment.get("parent_text") or "No parent comment available."
+    parent_text = parent_text_dilemma(comment)
+
     st.markdown("**Parent comment / context**")
     st.info(f"{parent_text}")
 

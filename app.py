@@ -103,6 +103,8 @@ def show_annotation_help():
 
 def show_stance_information():
 
+    st.markdown("# Definition of Stance and Parent Relation labels")
+    
     st.markdown("### AI Stance")
     st.markdown("""
     - **Favor:** Supports or welcomes the use of AI.
@@ -142,7 +144,7 @@ def init_state():
             st.session_state[key] = value
 
 
-def login_screen(comments):
+def login_screen():
     st.title("Social Media Comment Annotation")
     st.markdown("## Welcome Back!")
 
@@ -154,12 +156,14 @@ def login_screen(comments):
     - **Overall emotion:** The emotion conveyed by the comment as a whole.
     - **AI stance:** The comment's stance toward AI-generated advertising.
     - **Relation to parent comment:** How the comment relates to its parent comment, if one is provided.
-    - **Aspect–emotion pairs:** The aspects discussed in the comment and the emotions associated with each aspect.
+    - **Aspect-emotion pairs:** The aspects discussed in the comment and the emotions associated with each aspect.
 
     We would appreciate your help in evaluating these labels based on your own interpretation of each comment. There are no right or wrong answers in terms of personal opinion; we are interested in your independent assessment of whether the labels accurately represent the comments.
 
     Thank you for your time and contribution!
     """)
+
+    comments = None
 
     with st.form("login_form"):
         st.write("Sign in with the annotator ID and password provided")
@@ -178,11 +182,12 @@ def login_screen(comments):
             
             st.session_state.active_annotator = user_id.strip()
             st.session_state.progress = progress
-            st.session_state.current_index = find_next_incomplete(comments,progress['annotations'],0)
 
             st.rerun()
         else:
             st.error("The annotator ID or password is incorrect.")
+
+    return comments
 
 
 def persist_current(show_success: bool = False):
@@ -312,14 +317,6 @@ def render_app(comments: list[dict]):
     # For the sidebar
     with st.sidebar:
 
-        new_index = render_navigation(comments, annotations, st.session_state.current_index)
-
-        if new_index != st.session_state.current_index:
-            st.session_state.current_index = new_index
-            st.rerun()
-
-        st.divider()
-
         show_stance_information()
 
         # For annotation help
@@ -415,19 +412,17 @@ def main():
     if "scroll_to_top" not in st.session_state:
         st.session_state.scroll_to_top = False
 
-    # Load the comments
-    comments = {}
-
-    try:
-        comments = load_comments_json()
-    except Exception as exc:
-        st.error(f"Could not load comments.json: {exc}")
-        st.stop()
-
     # Otherwise: Login
     if not st.session_state.active_annotator:
-        login_screen(comments)
+        login_screen()
         return
+
+    # Load the comments for global usage
+    user_id = st.session_state.active_annotator
+    comments = load_comments_json(st.secrets[user_id]['split'])
+
+    # Get the next selected index
+    st.session_state.current_index = find_next_incomplete(comments,st.session_state.progress['annotations'],0)
 
     # Check for active annotator from the database
     # Load the progress from what was completed
