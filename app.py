@@ -104,11 +104,11 @@ def show_annotation_help():
 def show_stance_information():
 
     st.markdown("# Definition of Stance and Parent Relation labels")
-    
+
     st.markdown("### AI Stance")
     st.markdown("""
-    - **Favor:** Supports or welcomes the use of AI.
-    - **Against:** Criticizes or opposes the use of AI.
+    - **Favor:** Supports or welcomes the use of AI in this context.
+    - **Against:** Criticizes or opposes the use of AI in this context.
     - **Neutral:** Discusses AI without taking a clear position.
     - **None:** Does not engage with AI (e.g., discusses only the product or is off-topic).
     """)
