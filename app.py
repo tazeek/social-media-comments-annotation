@@ -321,13 +321,6 @@ def render_app(comments: list[dict]):
 
         st.divider()
 
-        # For saving progress
-        if st.button("Save progress", use_container_width=True):
-            try:
-                persist_current(show_success=True)
-            except Exception as exc:
-                st.error(f"Could not save progress: {exc}")
-
         # For signing out
         if st.button("Sign out", use_container_width=True):
             try:

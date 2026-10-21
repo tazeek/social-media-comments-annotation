@@ -10,7 +10,7 @@ def render_comment(comment: dict) -> list[dict]:
     st.markdown("**Parent comment / context**")
     st.info(f"{parent_text}")
 
-    st.markdown("**Comment to be annotated**")
+    st.markdown("**Comment to be evaluated**")
     st.info(comment["post_comment"] or "[Comment text unavailable]")
 
     # Parse the pairs

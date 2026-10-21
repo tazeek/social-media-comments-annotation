@@ -9,19 +9,19 @@ def render_stage_a(comment: dict, saved: dict) -> dict:
     options = ["Yes", "No", "Uncertain"]
 
     emotion_ok = st.radio(
-        f"Is the overall emotion of this comment correctly labelled as **{comment.get('emotion') or 'not provided'}**",
+        f"Is the overall emotion of this comment correctly labelled as **{comment.get('emotion') or 'not provided'}**?",
         options, key=f"emotion_ok_{comment['comment_id']}",
         index=_index(options, saved.get("emotion_verdict")), horizontal=True,
     )
 
     stance_ok = st.radio(
-        f"Is the comment's stance toward AI-generated advertising correctly labelled as **{comment.get('stance_label') or 'not provided'}**",
+        f"Is the comment's stance toward AI-generated advertising correctly labelled as **{comment.get('stance_label') or 'not provided'}**?",
         options, key=f"stance_ok_{comment['comment_id']}",
         index=_index(options, saved.get("stance_verdict")), horizontal=True,
     )
 
     relation_ok = st.radio(
-        f"Is the comment's relation to its parent comment correctly labelled as **{comment.get('relation_label') or 'not provided'}**",
+        f"Is the comment's relation to its parent comment correctly labelled as **{comment.get('relation_label') or 'not provided'}**?",
         options, key=f"relation_ok_{comment['comment_id']}",
         index=_index(options, saved.get("relation_verdict")), horizontal=True,
     )
@@ -33,6 +33,8 @@ def render_stage_a(comment: dict, saved: dict) -> dict:
     )
 
     return {
+        "parent_comment": comment.get('parent_text'),
+        "target_comment": comment.get('post_comment'),
         "emotion": comment.get('emotion'),
         "stance": comment.get('stance_label'),
         "relation_parent": comment.get('relation_label'),

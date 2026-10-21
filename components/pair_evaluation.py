@@ -37,7 +37,7 @@ def render_pair_validation(comment_id: str, predicted_pairs: list[dict], saved_p
 
             # Add the buttons
             aspect_ok = st.radio(
-                f"Is the aspect of the comment accurate?",
+                f"Is this aspect of the comment accurate?",
                 options, key=f"aspect_verdict_{comment_id}_{idx}",
                 index=_index(options, old.get("aspect_verdict")), horizontal=True,
             )
