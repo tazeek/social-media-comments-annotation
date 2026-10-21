@@ -1,6 +1,6 @@
 from pymongo import ASCENDING, MongoClient
 
-MONGO_URI = "mongodb+srv://adminUser:j1ccLAg5NL606hDS@mgsserverlessinstance.mbqiqqq.mongodb.net/"
+MONGO_URI = ""
 
 client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
 

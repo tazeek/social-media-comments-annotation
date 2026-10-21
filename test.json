@@ -1,0 +1,70 @@
+[
+    {
+        "post_id": "t1_lxge4q7",
+        "post_comment": "Their fingers all look like sausages",
+        "parent_id": NaN,
+        "parent_text": NaN,
+        "original_file": "2024_F&B_Coca cola_Reddit_2",
+        "row_id": "2024_F&B_Coca cola_Reddit_2_74",
+        "aspects": [
+        {
+            "aspect": "Realism",
+            "emotion": "Disgust",
+            "evidence": "Their fingers all look like sausages"
+        }
+        ],
+        "sarcasm_detected": false,
+        "irony_detected": false,
+        "stance_label": "against",
+        "relation_label": "not_applicable",
+        "emotion": "Disgust",
+        "source": "reddit"
+    },
+    {
+        "post_id": "t1_no18u4o",
+        "post_comment": "This had to have been before the newest Sora release, or post Sora nerf. Holy shit it looks bad. I honestly think the last years version is better.",
+        "parent_id": NaN,
+        "parent_text": NaN,
+        "original_file": "2025_F&B_Coca cola_Reddit_6",
+        "row_id": "2025_F&B_Coca cola_Reddit_6_150",
+        "aspects": [
+        {
+            "aspect": "Visual Centric",
+            "emotion": "Disgust",
+            "evidence": "Holy shit it looks bad"
+        },
+        {
+            "aspect": "AI Capability",
+            "emotion": "Sadness",
+            "evidence": "I honestly think the last years version is better"
+        }
+        ],
+        "sarcasm_detected": false,
+        "irony_detected": false,
+        "stance_label": "against",
+        "relation_label": "not_applicable",
+        "emotion": "Disgust",
+        "source": "reddit"
+    },
+    {
+    "post_id": "t1_lwv7lov",
+    "post_comment": "The Friends day videos? Yeah. I also saw on Taskmaster NZ that apparently they sell books generated with your images, too.",
+    "parent_id": "t1_lwupknh",
+    "parent_text": "As someone that hasn't used Facebook since probably around 2008 was that actually something they did?",
+    "original_file": "2024_Technology_Apple_Reddit_1",
+    "row_id": "2024_Technology_Apple_Reddit_1_294",
+    "aspects": [
+      {
+        "aspect": "Societal & Ethical Implications",
+        "emotion": "Neutral",
+        "evidence": "sell books generated with your images"
+      }
+    ],
+    "sarcasm_detected": false,
+    "irony_detected": false,
+    "stance_label": "neutral",
+    "relation_label": "agree",
+    "emotion": "Neutral",
+    "source": "reddit"
+  }
+]
