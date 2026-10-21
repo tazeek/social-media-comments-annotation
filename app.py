@@ -266,15 +266,19 @@ def retry_email():
 
 
 def render_completed():
+
     progress = st.session_state.progress
     st.title("Submission completed")
     st.success("Your final annotation snapshot is stored in the database.")
+
     snapshot = progress.get("final_submission") or {}
     st.write(f"Submission reference: `{snapshot.get('submission_reference', 'Unavailable')}`")
     st.write(f"Email status: **{progress.get('email_status', 'unknown')}**")
+
     if progress.get("email_status") == "failed":
         if st.button("Retry email to researcher", type="primary"):
             retry_email()
+    
     st.info("This account's submission is locked after final submission. Contact the researcher if a correction is needed.")
     if st.button("Sign out"):
         st.session_state.active_annotator = None
@@ -301,6 +305,9 @@ def render_app(comments: list[dict]):
     st.title("Reddit AI-generated Ad Annotation")
     st.markdown(f"Signed in as `{user_id}`")
     st.progress(done / total, text=f"Completed {done} of {total} comments")
+
+    if st.button("Submit all annotations", type="primary", use_container_width=True):
+            submit_all(comments)
 
     # For the sidebar
     with st.sidebar:
@@ -399,15 +406,6 @@ def render_app(comments: list[dict]):
 
                 except Exception as exc:
                     st.error(f"Could not save this comment: {exc}")
-
-    # For final submission
-    st.divider()
-    st.markdown("### Final submission")
-    st.write(f"Completed comments: **{completed_count(comments, annotations)} / {total}**")
-    st.warning("Final submission locks your record. Check that all comments are complete before proceeding.")
-    
-    if st.button("Submit all annotations", type="primary", use_container_width=True):
-        submit_all(comments)
 
 
 def main():
