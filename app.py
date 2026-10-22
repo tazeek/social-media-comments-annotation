@@ -17,7 +17,7 @@ from services.database import (
 from services.email_service import send_submission_email
 from utils.config import authenticate, load_comments_json
 
-st.set_page_config(page_title="Reddit AI-Ad Annotation", page_icon="🗂️", layout="wide")
+st.set_page_config(page_title="Social Media AI-Ad Annotation", page_icon="🗂️", layout="wide")
 
 if "scroll_to_top" in st.session_state:
     scroll_to_here(0, key="top_anchor")  # 0 ms delay
@@ -307,15 +307,27 @@ def render_app(comments: list[dict]):
     total = len(comments)
     done = completed_count(comments, annotations)
 
-    st.title("Reddit AI-generated Ad Annotation")
+    st.title("Social Media AI-generated Ad Annotation")
     st.markdown(f"Signed in as `{user_id}`")
     st.progress(done / total, text=f"Completed {done} of {total} comments")
 
     if st.button("Submit all annotations", type="primary", use_container_width=True):
             submit_all(comments)
 
+    index = st.session_state.current_index
+
     # For the sidebar
     with st.sidebar:
+
+        # Check if the dropdown has a new index selected
+        possible_new_index = render_navigation(comments, annotations, index) 
+
+        # Re-run if it is different
+        # We also need to ensure that this new index is not overwritten
+        if possible_new_index != index:
+            st.session_state.current_index = possible_new_index
+            st.session_state.can_ignore = True
+            st.rerun()
 
         show_stance_information()
 
@@ -398,6 +410,7 @@ def render_app(comments: list[dict]):
 
                     next_index = find_next_incomplete(comments, annotations, st.session_state.current_index)
                     st.session_state.current_index = next_index
+                    st.session_state.can_ignore = False
                     st.session_state.scroll_to_top = True
                     st.rerun()
 
@@ -422,7 +435,10 @@ def main():
     comments = load_comments_json(st.secrets[user_id]['split'])
 
     # Get the next selected index
-    st.session_state.current_index = find_next_incomplete(comments,st.session_state.progress['annotations'],0)
+    if ('can_ignore' in st.session_state) and st.session_state.can_ignore:
+        ...
+    else:
+        st.session_state.current_index = find_next_incomplete(comments,st.session_state.progress['annotations'],0)
 
     # Check for active annotator from the database
     # Load the progress from what was completed

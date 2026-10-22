@@ -28,7 +28,7 @@ def render_stage_a(comment: dict, saved: dict) -> dict:
 
     reasoning = st.text_area(
         "Brief reasoning / notes (if any)", value=saved.get("reasoning", ""),
-        key=f"stage_a_reason_verdict",
+        key=f"stage_a_reason_verdict_{comment['comment_id']}",
         placeholder="Explain the reason for any correction, uncertainty, or unusual case.",
     )
 
