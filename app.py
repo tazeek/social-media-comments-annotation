@@ -1,6 +1,5 @@
 import uuid
 from datetime import datetime, timezone
-from streamlit_scroll_to_top import scroll_to_here
 
 import streamlit as st
 
@@ -18,10 +17,6 @@ from services.email_service import send_submission_email
 from utils.config import authenticate, load_comments_json
 
 st.set_page_config(page_title="Reddit AI-Ad Annotation", page_icon="🗂️", layout="wide")
-
-if "scroll_to_top" in st.session_state:
-    scroll_to_here(0, key="top_anchor")  # 0 ms delay
-    st.session_state.scroll_to_top = False  # Reset state
 
 @st.dialog("Aspect Definition Guideline")
 def show_annotation_help():
@@ -398,7 +393,6 @@ def render_app(comments: list[dict]):
 
                     next_index = find_next_incomplete(comments, annotations, st.session_state.current_index)
                     st.session_state.current_index = next_index
-                    st.session_state.scroll_to_top = True
                     st.rerun()
 
                 except Exception as exc:
@@ -408,9 +402,6 @@ def render_app(comments: list[dict]):
 def main():
 
     init_state()
-
-    if "scroll_to_top" not in st.session_state:
-        st.session_state.scroll_to_top = False
 
     # Otherwise: Login
     if not st.session_state.active_annotator:
